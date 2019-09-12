@@ -1,0 +1,23 @@
+{
+
+  "contacts": [
+
+    {
+
+        "id": 1,
+
+        "fname": 'vik',
+
+        "lname": 'lip',
+
+        "email": 'vik@.com',
+
+        "phone": '902902902',
+
+        "active": 'A'
+
+    }
+
+  ]
+
+}
