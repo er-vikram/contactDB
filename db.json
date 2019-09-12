@@ -1,23 +1,12 @@
 {
-
   "contacts": [
-
     {
-
-        "id": 1,
-
-        "fname": 'vik',
-
-        "lname": 'lip',
-
-        "email": 'vik@.com',
-
-        "phone": '902902902',
-
-        "active": 'A'
-
+      "id": 1,
+      "fname": "hello",
+      "lname": "hello",
+      "email": "hello",
+      "phone": 9028984664,
+      "isActive": true
     }
-
   ]
-
 }
