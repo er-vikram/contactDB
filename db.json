@@ -2,11 +2,19 @@
   "contacts": [
     {
       "id": 1,
-      "first": "hello",
-      "last": "hello",
-      "email": "hello",
+      "first": "Vikram",
+      "last": "Lipane",
+      "email": "er.vlipane@gmail.com",
       "phone": 9028984664,
       "status": 1
+    }
+    {
+      "id": 2,
+      "first": "Amit",
+      "last": "Kumar",
+      "email": "amit@test.com",
+      "phone": 9028984664,
+      "status": 0
     }
   ]
 }
