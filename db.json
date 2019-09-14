@@ -2,11 +2,11 @@
   "contacts": [
     {
       "id": 1,
-      "fname": "hello",
-      "lname": "hello",
+      "first": "hello",
+      "last": "hello",
       "email": "hello",
       "phone": 9028984664,
-      "isActive": true
+      "status": 1
     }
   ]
 }
